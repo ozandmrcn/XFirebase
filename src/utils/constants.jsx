@@ -8,35 +8,35 @@ import { PiDotsThreeCircle } from "react-icons/pi";
 
 export const navSections = [
   {
-    title: "Anasayfa",
+    title: "Home",
     icon: <BiHomeCircle />,
   },
   {
-    title: "Bildirimler",
+    title: "Notifications",
     icon: <AiOutlineBell />,
   },
   {
-    title: "Mesajlar",
+    title: "Messages",
     icon: <AiOutlineMail />,
   },
   {
-    title: "Listeler",
+    title: "Lists",
     icon: <CiViewList />,
   },
   {
-    title: "Yer İşaretleri",
+    title: "Bookmarks",
     icon: <BsBookmark />,
   },
   {
-    title: "Onaylanmış",
+    title: "Confirmed",
     icon: <AiOutlineCheckCircle />,
   },
   {
-    title: "Profil",
+    title: "Profile",
     icon: <CgProfile />,
   },
   {
-    title: "Daha Fazla",
+    title: "More",
     icon: <PiDotsThreeCircle />,
   },
 ];
