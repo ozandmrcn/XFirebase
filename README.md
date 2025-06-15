@@ -39,7 +39,9 @@ XFirebase enables users to:
 You can view a demo of the project by visiting the following link:  
 [XFirebase Demo](https://ozanxfirebase.netlify.app/)
 
-## Preview  
+## Preview
+![foto1](https://github.com/user-attachments/assets/1ce431fe-55a1-47e2-b431-4091b01bdc22)
+![foto2](https://github.com/user-attachments/assets/5ef39e3d-d40d-4c1d-9a48-c82c390af0d1)
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" height="25" /> Installation
